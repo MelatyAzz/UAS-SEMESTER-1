@@ -1,12 +1,12 @@
+//Nama  : Melaty Az Zahrani
+// NIM  : 244107060012
+// No   : 18
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class UAS1F18 {
     public static void main(String[] args) {
-
-//Nama  : Melaty Az Zahrani
-// NIM  : 244107060012
-// No   : 18
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("=== Menu Utama ===");
